@@ -1,0 +1,2 @@
+# analisadorNumeros
+O Projeto ANALISADOR DE NÚMERO foi construído através do Curso em Vídeo de JS e ECMAScript para Iniciantes. Nele foi aplicado todos os assuntos desenvolvidos no decorrer das aulas e também uma oportunidade de compreender melhor ARRAY e FUNCTION, que são os últimos temas.  Além de JS, se fizeram presente vivências de como explorar o editor de código Visual Studio Code e conhecimento básico de HTML e CSS.
